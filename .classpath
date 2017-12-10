@@ -4,5 +4,7 @@
 	<classpathentry excluding="PingPong/" kind="src" path="src"/>
 	<classpathentry kind="src" path="src/PingPong"/>
 	<classpathentry kind="lib" path="balls.jar"/>
+	<classpathentry kind="lib" path="src/myPaint/canvas.jar"/>
+	<classpathentry kind="lib" path="src/myWorld/world.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
