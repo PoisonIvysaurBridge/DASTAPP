@@ -6,5 +6,6 @@
 	<classpathentry kind="lib" path="balls.jar"/>
 	<classpathentry kind="lib" path="src/myPaint/canvas.jar"/>
 	<classpathentry kind="lib" path="src/myWorld/world.jar"/>
+	<classpathentry kind="lib" path="src/myStack/stackworld.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
